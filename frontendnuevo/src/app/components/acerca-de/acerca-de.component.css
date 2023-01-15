@@ -16,7 +16,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
-        top: 600px;
+        top: 650px;
     }
 }
     @media (max-width: 575px) {
@@ -26,7 +26,7 @@ div{
             border-radius: 100%;
             box-shadow: 3px 3px 3px grey;
             left: 33%;
-            top: 630px;
+            top: 950px;
         }
     /*falta un media para cuando es muy chica*/
 }
@@ -36,7 +36,7 @@ div{
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 30%;
+    margin-top: 20%;
     
     }
 
