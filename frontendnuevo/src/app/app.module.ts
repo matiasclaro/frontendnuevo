@@ -23,7 +23,6 @@ import { FooterComponent } from './components/footer/footer.component';
     LogoAPComponent,
     BannerComponent,
     AcercaDeComponent,
-   
     EducacionComponent,
     ExperienciaComponent,
     HysComponent,
